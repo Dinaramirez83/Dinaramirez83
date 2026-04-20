@@ -1,62 +1,54 @@
-# 👩‍💻 Dina | Accounting & Financial Data Analyst
+# 👩‍💼 Dina | Gestión Administrativa y Operativa
 
-Soy una profesional de la **Contabilidad y Finanzas** apasionada por la transformación digital. Mi enfoque combina los principios contables tradicionales con la automatización de datos para mejorar la precisión financiera y reducir los tiempos de cierre mensual.
-
----
-
-## 💼 Perfil Profesional
-* **Especialista en:** Auditoría Digital, Reporte Financiero (NIIF/IFRS) y Optimización Fiscal.
-* **Misión:** Eliminar las tareas manuales repetitivas en los departamentos contables mediante el uso de código y herramientas de análisis avanzado.
+¡Hola! Soy Dina, profesional en **Administración de Empresas**. Mi enfoque principal es la optimización de recursos, la gestión eficiente de procesos y el fortalecimiento de la estructura organizacional para alcanzar objetivos estratégicos.
 
 ---
 
-## 🛠️ Stack Tecnológico Contable
-| Área | Herramientas |
-| :--- | :--- |
-| **Análisis de Datos** | Python (Pandas, Openpyxl), SQL, R |
-| **Visualización BI** | Power BI (DAX), Tableau, Google Data Studio |
-| **ERP & Accounting** | SAP S/4HANA, Oracle NetSuite, QuickBooks |
-| **Automatización** | VBA (Macros), Microsoft Power Automate |
-| **Documentación** | Markdown, Git, LaTeX (para reportes académicos) |
+## 🚀 Perfil Profesional
+Soy una administradora orientada a resultados con experiencia en la planificación y ejecución de proyectos. Me especializo en coordinar equipos, gestionar flujos de trabajo y asegurar que cada área de la empresa funcione en total sincronía con la visión del negocio.
 
 ---
 
-## 📂 Áreas de Investigación y Proyectos
-### 📑 Automatización Contable
-* **Conciliación Bancaria Inteligente:** Scripts en Python para cruzar estados de cuenta bancarios contra libros mayores con una precisión del 99.9%.
-* **Generador de Estados Financieros:** Automatización de Balance General y Estado de Resultados desde archivos planos (CSV/TXT).
-
-### 🔍 Auditoría y Control Interno
-* **Detección de Anomalías:** Uso de la Ley de Benford y análisis estadístico para identificar posibles errores o fraudes en registros de gastos.
-* **Control de Activos Fijos:** Base de datos relacional para el seguimiento de depreciaciones y vida útil.
-
-### 📊 Gestión Fiscal
-* **Calculadoras de Impuestos:** Modelos dinámicos para el cálculo de retenciones, IVA e Impuesto sobre la Renta según la legislación vigente.
+## 🛠️ Competencias de Gestión
+* **Planificación Estratégica:** Definición de KPIs, análisis FODA y planes de crecimiento.
+* **Gestión de Operaciones:** Optimización de la cadena de valor y flujos de trabajo internos.
+* **Administración de Recursos:** Control presupuestario, gestión de proveedores y talento humano.
+* **Liderazgo de Proyectos:** Coordinación de equipos multidisciplinarios bajo metodologías organizativas.
 
 ---
 
-## 📈 Estadísticas de GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=ocean" alt="Estadísticas de Dina" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=ocean" alt="Lenguajes más usados" />
-</p>
+## 📂 Áreas de Especialización
+### 🏢 Estructura Organizacional
+* Documentación de manuales de procedimientos y políticas internas.
+* Diseño de organigramas y definición de funciones por puesto.
+
+### 📉 Eficiencia y Procesos
+* Reingeniería de procesos para reducir costos operativos.
+* Implementación de sistemas de gestión documental para mejorar la transparencia.
+
+### 🤝 Relaciones Institucionales
+* Gestión de contratos y negociación con stakeholders clave.
+* Supervisión de cumplimiento normativo y administrativo.
 
 ---
 
-## 🎓 Formación y Certificaciones
-* **Licenciatura en Contaduría Pública**
-* **Certificación en Data Analytics for Finance**
-* **Especialista en Excel Avanzado y Power Query**
+## 📊 Metodologías y Enfoque
+* **Gestión del Tiempo:** Implementación de metodologías para la productividad grupal.
+* **Control de Calidad:** Enfoque en la mejora continua de los servicios administrativos.
+* **Toma de Decisiones:** Basada en indicadores de desempeño y proyecciones de mercado.
 
 ---
 
-## 🤝 Colaboración y Mentoría
-Estoy abierta a colaborar en proyectos de **Open Source FinTech** o herramientas de contabilidad para PYMES. Si tienes un flujo de trabajo contable que necesita ser automatizado, ¡hablemos!
+## 🎓 Formación Profesional
+* **Licenciatura en Administración de Empresas**
+* **Especialización en Gestión de Operaciones**
+* **Diplomado en Liderazgo y Comportamiento Organizacional**
 
-## 📬 Contacto
+---
+
+## 📬 Conecta conmigo
 * **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-* **Portafolio Personal:** [TuSitioWeb.com](https://tusitioweb.com)
-* **Email:** [dina.contable@ejemplo.com](mailto:dina.contable@ejemplo.com)
+* **Email:** [tu-correo-profesional@ejemplo.com](mailto:tu-correo-profesional@ejemplo.com)
 
 ---
-*“In God we trust, all others must bring data.”*
+*"La administración es, ante todo, el arte de hacer que las cosas sucedan."*
