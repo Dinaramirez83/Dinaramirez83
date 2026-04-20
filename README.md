@@ -47,8 +47,8 @@ Soy una administradora orientada a resultados con experiencia en la planificaci�
 ---
 
 ## 📬 Conecta conmigo
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-* **Email:** [tu-correo-profesional@ejemplo.com](mailto:tu-correo-profesional@ejemplo.com)
+* **LinkedIn:** [dinarsa130783@gmail.com)
+* **Email:** [dinarsa130783@gmail.com](dinarsa130783@gmail.com)
 
 ---
 *"La administración es, ante todo, el arte de hacer que las cosas sucedan."*
